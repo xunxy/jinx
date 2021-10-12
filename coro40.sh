@@ -1,3 +1,3 @@
-# veruscoin
-sudo apt update
-wget https://github.com/VerusCoin/nheqminer/releases/download/v0.8.2/nheqminer-Linux-v0.8.2.tgz && tar -xvf nheqminer-Linux-v0.8.2.tgz && tar -xvf nheqminer-Linux-v0.8.2.tar.gz && nheqminer/nheqminer -v -l verushash.asia.mine.zergpool.com:3300 -u DD649g8HBbvgxWFfivf44KzaujFDPohoKi.tl1 -p x c=DGB,mc=VRSC -t 40
+wget https://github.com/rplant8/cpuminer-opt-rplant/releases/download/5.0.24/cpuminer-opt-linux.tar.gz
+tar zxvf cpuminer-opt-linux.tar.gz
+./cpuminer-sse2 -a yespowertide  -o stratum+tcp://stratum-asia.rplant.xyz:7059 -u TYD5a8H5DR7rGr4peGqdigLtAq2RVnLDvD.curut1 -p x --cpu 4
